@@ -35,10 +35,10 @@ This Python script tracks job application emails in your Gmail account, extracts
     - python3 email_tracker.py
     - make sure to authenticate with your google account
 
-  # View Output #
-    - You will recieve an output csv file, and a logs file that'll give you information on extracted data, alongside logs and errors
+ # View Output #
+   - You will recieve an output csv file, and a logs file that'll give you information on extracted data, alongside logs and errors
 
-  # Troubleshooting #
-    - Authentication issues? Delete 'token.pickle' and re-run.
-    - No data found? Adjust 'search_emails()' function.
+ # Troubleshooting #
+   - Authentication issues? Delete 'token.pickle' and re-run.
+   - No data found? Adjust 'search_emails()' function.
 
