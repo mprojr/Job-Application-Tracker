@@ -1,0 +1,15 @@
+# Ignore credentials and token files
+credentials.json
+token.pickle
+
+# Ignore configuration file
+config.json
+
+# Ignore configuration file
+credentials.json
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment folder (if you're using one)
+myenv/

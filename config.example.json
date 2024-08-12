@@ -1,0 +1,6 @@
+{
+  "scopes": ["https://www.googleapis.com/auth/gmail.readonly"],
+  "credentials_file": "credentials.json",
+  "token_file": "token.pickle",
+  "output_file": "companies_applied.csv"
+}
