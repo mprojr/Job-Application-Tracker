@@ -24,7 +24,7 @@ This Python script tracks job application emails in your Gmail account, extracts
     - MacOS/Linus: source myenv/bin/activate
 
   4. Install Packages Needed
-    - pip install -r requirements.txt
+    - pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
     - Enable Gmal API in Google Cloud
     - Create OAuth 2.0 credentials
     - Download 'credentials.json' (Given by google)
