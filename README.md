@@ -25,7 +25,7 @@ This Python script tracks job application emails in your Gmail account, extracts
 
   4. Install Packages Needed
     - pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
-    - Enable Gmal API in Google Cloud
+    - Enable Gmail API in Google Cloud
     - Create OAuth 2.0 credentials
     - Download 'credentials.json' (Given by google)
     - cp config.example.json config.json (replace example files with your expected files, remove .example from file name.)
